@@ -50,7 +50,8 @@ python main.py
 
 ## 📷 Captura de pantalla
 
-*Incluye aquí una imagen o gif de la app en funcionamiento (opcional)*
+![image](https://github.com/user-attachments/assets/cf5e1136-adaf-4e53-bbe7-44618c41b40f)
+
 
 ## 🗃️ Base de datos
 
