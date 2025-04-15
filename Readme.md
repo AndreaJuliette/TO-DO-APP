@@ -1,8 +1,4 @@
-¡Claro! Aquí tienes un ejemplo de un `README.md` bien estructurado para tu proyecto de To-Do App en Python usando `tkinter` y `customtkinter`:
 
----
-
-```markdown
 # 📝 To-Do App en Python
 
 Una aplicación básica de tareas pendientes (To-Do) desarrollada en Python usando `tkinter`, `customtkinter` y `sqlite3` para la interfaz gráfica y el almacenamiento local.
