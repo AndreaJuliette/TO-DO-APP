@@ -106,6 +106,7 @@ class App(customtkinter.CTk):
 
             self.database.updateTexto(item[0][0],item[1].winfo_children()[2].get())
 
+        self.database.close()
         self.destroy()
         
 
